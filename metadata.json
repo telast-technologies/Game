@@ -1,0 +1,10 @@
+{
+  "name": "ذاكرة ذكية",
+  "description": "تطبيق تعليمي تفاعلي لتدريب الذاكرة البصرية المكانية والتركيز للأطفال من ٣ إلى ٩ سنوات.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
